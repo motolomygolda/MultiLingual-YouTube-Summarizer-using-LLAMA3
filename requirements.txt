@@ -1,0 +1,8 @@
+pytube
+requests
+gradio
+langchain_community
+langchain
+tiktoken
+deep-translator
+youtube-transcript-api
