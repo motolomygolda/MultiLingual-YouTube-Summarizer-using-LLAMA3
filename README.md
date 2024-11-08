@@ -37,8 +37,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/youtube-summarizer.git
-    cd youtube-summarizer
+    git clone https://github.com/motolomygolda/MultiLingual-YouTube-Summarizer-using-LLAMA3.git
+    cd MultiLingual-YouTube-Summarizer-using-LLAMA3
     ```
 
 2. Install the required Python packages:
@@ -56,7 +56,7 @@ Before you begin, ensure you have the following installed:
 ## Usage
 1. Run the application:
     ```bash
-    python app.py
+    python main.py
     ```
    
 2. Access the UI:
